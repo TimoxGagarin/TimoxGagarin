@@ -6,14 +6,14 @@
 
 - 👀 I'm intrested in web development and ML.
 - 🌱 Now I'm learning Java, C++, PostgreSQL and Docker.
-- 💞️ Я ищу сотрудничество по ...
+<!-- - 💞️ Я ищу сотрудничество по ... -->
 - 📫 My contacts [Telegram](https://t.me/TimoxGagarin)
 
-## My projects
+<!-- ## My projects
 
 - [Название проекта 1](ссылка на проект) - краткое описание проекта 1.
 - [Название проекта 2](ссылка на проект) - краткое описание проекта 2.
-
+-->
 ## Skills and instruments
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
