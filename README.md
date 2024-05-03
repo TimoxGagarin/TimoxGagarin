@@ -1,18 +1,25 @@
-### Hi there 👋
+# Hello, I'm Timofey 👋
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<!--
-**TimoxGagarin/TimoxGagarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 👀 I'm intrested in web development and ML.
+- 🌱 Now I'm learning Java, C++, PostgreSQL and Docker.
+- 💞️ Я ищу сотрудничество по ...
+- 📫 My contacts [Telegram](https://t.me/TimoxGagarin)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My projects
+
+- [Название проекта 1](ссылка на проект) - краткое описание проекта 1.
+- [Название проекта 2](ссылка на проект) - краткое описание проекта 2.
+
+## Skills and instruments
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+
+## GitHub stats
+
+![GitHub's statistic](https://github-readme-stats.vercel.app/api?username=TimoxGagarin&show_icons=true&theme=radical)
