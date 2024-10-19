@@ -4,22 +4,12 @@
 
 ## About me
 
-- 👀 I'm intrested in web development and ML.
-- 🌱 Now I'm learning Java, C++, PostgreSQL and Docker.
-<!-- - 💞️ Я ищу сотрудничество по ... -->
-- 📫 My contacts [Telegram](https://t.me/TimoxGagarin)
+<div id="header" align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=likevelerjegher&show_icons=true&theme=transparent&hide_border=true&layout=compact)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likevelerjegher&theme=transparent&hide_border=true&layout=compact)](https://github.com/t1coz)
+  
+  <img src="https://komarev.com/ghpvc/?username=likevelerjegher&style=flat-square&color=blue" alt=""/>
 
-<!-- ## My projects
-
-- [Название проекта 1](ссылка на проект) - краткое описание проекта 1.
-- [Название проекта 2](ссылка на проект) - краткое описание проекта 2.
--->
-## Skills and instruments
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-
-## GitHub stats
-
-![GitHub's statistic](https://github-readme-stats.vercel.app/api?username=TimoxGagarin&show_icons=true&theme=radical)
+  Jeg elsker måten hun får meg til å føle, som om alt i verden er mulig, eller at livet er verdt det.
+</div>
